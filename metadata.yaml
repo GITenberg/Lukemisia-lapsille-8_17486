@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Zachris_Topelius
     - http://fi.wikipedia.org/wiki/Zacharias_Topelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17486#Lukemisia-lapsille-8
 gutenberg_issued: '2006-01-09'
 gutenberg_type: Text
 identifiers:
